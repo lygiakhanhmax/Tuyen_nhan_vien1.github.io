@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang cửa hàng</title>
+    <link rel="stylesheet" href="btl.css">
+</head>
+<body>
+    <header>
+    <div id="logo">
+        <img src="" alt="">
+    </div>
+    <nav>
+        <ul>
+            <li><a href="#">Trang chủ</a></li>
+            <li><a href="#">Sách mới</a></li>
+            <li><a href="#">Sách bán chạy</a></li>
+            <li><a href="#">Gioi thiệu</a></li>
+            <li><a href="#">Đăng nhập/Đăng ký</a></li>
